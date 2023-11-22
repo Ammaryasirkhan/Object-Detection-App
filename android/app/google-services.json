@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406603729294",
+    "project_id": "plantsdetection-ca536",
+    "storage_bucket": "plantsdetection-ca536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406603729294:android:3d7e5e059a4211c01d7cdf",
+        "android_client_info": {
+          "package_name": "com.example.project5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406603729294-2351h3h5308li12tsvj9ma2taimeto34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJnJ2v15t7IC0Pf9gbOSfS8LtxxRgIvlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406603729294-2351h3h5308li12tsvj9ma2taimeto34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
